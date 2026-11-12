@@ -1,0 +1,1846 @@
+{
+  "evaluations": [],
+  "studentattendances": [
+    {
+      "_id": "6af2cf6821c04b2680459911",
+      "batchId": "6af2cf6821c04b2680459902",
+      "studentId": "6af2cf6821c04b2680459899",
+      "sessionDate": "2026-11-10",
+      "status": "PRESENT",
+      "markedBy": "6af2cf6821c04b268045985c",
+      "createdAt": "2026-11-10T09:46:44.416Z"
+    },
+    {
+      "_id": "6af2cf6821c04b2680459912",
+      "batchId": "6af2cf6821c04b2680459902",
+      "studentId": "6af2cf6821c04b2680459899",
+      "sessionDate": "2026-11-11",
+      "status": "PRESENT",
+      "markedBy": "6af2cf6821c04b268045985c",
+      "createdAt": "2026-11-11T09:46:44.416Z"
+    }
+  ],
+  "eventsubmissions": [],
+  "users": [
+    {
+      "_id": "6af2cf6721c04b268045979c",
+      "fullName": "Super Admin",
+      "email": "superadmin@craffixweb.com",
+      "avatarUrl": "",
+      "accountType": "INTERNAL",
+      "primaryRole": "SUPER_ADMIN",
+      "status": "ACTIVE",
+      "emailVerified": true,
+      "createdAt": "2026-11-10T08:01:43.322Z",
+      "updatedAt": "2026-11-10T16:50:52.958Z",
+      "__v": 0,
+      "lastLoginAt": "2026-11-10T16:50:52.956Z",
+      "bio": "",
+      "localPassword": "Craffix@2026"
+    },
+    {
+      "_id": "6af2cf6721c04b26804597e9",
+      "fullName": "Admin User",
+      "email": "admin@craffixweb.com",
+      "avatarUrl": "",
+      "accountType": "INTERNAL",
+      "primaryRole": "ADMIN",
+      "status": "ACTIVE",
+      "emailVerified": true,
+      "createdAt": "2026-11-10T08:01:43.690Z",
+      "updatedAt": "2026-11-10T10:03:27.060Z",
+      "__v": 0,
+      "lastLoginAt": "2026-11-10T10:03:27.060Z",
+      "bio": "",
+      "localPassword": "Craffix@2026"
+    },
+    {
+      "_id": "6af2cf6721c04b268045982a",
+      "fullName": "Deepak",
+      "email": "coordinator@craffixweb.com",
+      "avatarUrl": "",
+      "accountType": "INTERNAL",
+      "primaryRole": "COORDINATOR",
+      "status": "ACTIVE",
+      "emailVerified": true,
+      "createdAt": "2026-11-10T08:01:43.918Z",
+      "updatedAt": "2026-11-10T16:51:46.075Z",
+      "__v": 0,
+      "lastLoginAt": "2026-11-10T16:51:46.074Z",
+      "bio": "",
+      "updatedBy": "6af2cf6721c04b268045982a",
+      "localPassword": "Craffix@2026"
+    },
+    {
+      "_id": "6af2cf6821c04b268045985c",
+      "fullName": "Kirthika",
+      "email": "mentor@craffixweb.com",
+      "avatarUrl": "",
+      "accountType": "INTERNAL",
+      "primaryRole": "MENTOR",
+      "status": "ACTIVE",
+      "emailVerified": true,
+      "createdAt": "2026-11-10T08:01:44.149Z",
+      "updatedAt": "2026-11-10T10:03:13.692Z",
+      "__v": 0,
+      "lastLoginAt": "2026-11-10T10:03:13.692Z",
+      "bio": "",
+      "updatedBy": "6af2cf6821c04b268045985c",
+      "localPassword": "Craffix@2026"
+    },
+    {
+      "_id": "6af2cf6821c04b2680459884",
+      "fullName": "Student User",
+      "email": "student@craffixweb.com",
+      "avatarUrl": "",
+      "accountType": "STUDENT",
+      "primaryRole": "STUDENT",
+      "status": "ACTIVE",
+      "emailVerified": true,
+      "createdAt": "2026-11-10T08:01:44.368Z",
+      "updatedAt": "2026-11-10T08:53:44.023Z",
+      "__v": 0,
+      "lastLoginAt": "2026-11-10T08:53:44.023Z",
+      "bio": "",
+      "localPassword": "Craffix@2026"
+    },
+    {
+      "_id": "6af2cf6821c04b26804598aa",
+      "fullName": "Guest Participant",
+      "email": "guest@craffixweb.com",
+      "avatarUrl": "",
+      "accountType": "GUEST",
+      "primaryRole": "GUEST",
+      "status": "ACTIVE",
+      "emailVerified": true,
+      "createdAt": "2026-11-10T08:01:44.576Z",
+      "updatedAt": "2026-11-10T08:01:44.604Z",
+      "__v": 0,
+      "lastLoginAt": "2026-11-10T08:01:44.604Z",
+      "localPassword": "Craffix@2026"
+    }
+  ],
+  "coursemodules": [],
+  "tasks": [],
+  "eventteams": [],
+  "submissions": [
+    {
+      "_id": "6af2cf6821c04b2680459907",
+      "assignmentId": "6af2cf6821c04b2680459906",
+      "studentId": "6af2cf6821c04b2680459899",
+      "submissionUrl": "https://github.com/craffixweb/student-rest-api",
+      "notes": "Completed all endpoints with validation.",
+      "marksObtained": 92,
+      "feedback": "Well-structured API routes and clean error handling.",
+      "gradedBy": "6af2cf6821c04b268045985c",
+      "gradedAt": "2026-11-12T09:46:44.413Z",
+      "status": "GRADED",
+      "submittedAt": "2026-11-11T09:46:44.416Z",
+      "createdAt": "2026-11-11T09:46:44.416Z"
+    }
+  ],
+  "designations": [
+    {
+      "_id": "6af2cf6721c04b26804597cb",
+      "title": "Super Admin",
+      "code": "SUPER_ADMIN",
+      "departmentId": "6af2cf6721c04b26804597c8",
+      "level": 4,
+      "status": "ACTIVE",
+      "createdAt": "2026-11-10T08:01:43.348Z",
+      "updatedAt": "2026-11-10T08:01:43.348Z",
+      "__v": 0
+    },
+    {
+      "_id": "6af2cf6721c04b26804597cc",
+      "title": "Admin",
+      "code": "ADMIN",
+      "departmentId": "6af2cf6721c04b26804597c8",
+      "level": 3,
+      "status": "ACTIVE",
+      "createdAt": "2026-11-10T08:01:43.348Z",
+      "updatedAt": "2026-11-10T08:01:43.348Z"
+    },
+    {
+      "_id": "6af2cf6721c04b26804597cd",
+      "title": "Course Coordinator",
+      "code": "COORDINATOR",
+      "departmentId": "6af2cf6721c04b26804597c8",
+      "level": 2,
+      "status": "ACTIVE",
+      "createdAt": "2026-11-10T08:01:43.348Z",
+      "updatedAt": "2026-11-10T08:01:43.348Z"
+    },
+    {
+      "_id": "6af2cf6721c04b26804597ce",
+      "title": "Mentor",
+      "code": "MENTOR",
+      "departmentId": "6af2cf6721c04b26804597c8",
+      "level": 1,
+      "status": "ACTIVE",
+      "createdAt": "2026-11-10T08:01:43.348Z",
+      "updatedAt": "2026-11-10T08:01:43.348Z"
+    }
+  ],
+  "courses": [
+    {
+      "_id": "6af2cf6821c04b2680459901",
+      "courseCode": "CRS-2026-0001",
+      "title": "Full Stack Web Development",
+      "category": "Engineering",
+      "duration": "12 Weeks",
+      "objective": "Build production-ready full-stack web applications with React, Node.js, and REST APIs.",
+      "outcome": "Design, build, test, and deploy scalable web applications.",
+      "fee": {
+        "amount": 25000,
+        "currency": "INR"
+      },
+      "priceUnlocked": true,
+      "coordinatorId": "6af2cf6721c04b268045982a",
+      "status": "PUBLISHED",
+      "createdAt": "2026-11-10T09:46:44.416Z"
+    }
+  ],
+  "assessments": [],
+  "notifications": [],
+  "auditlogs": [
+    {
+      "_id": "6af2cf6821c04b2680459921",
+      "actorId": "6af2cf6821c04b268045985c",
+      "actorName": "Kirthika",
+      "actorRole": "MENTOR",
+      "module": "assignments",
+      "action": "GRADE_SUBMISSION",
+      "summary": "Graded REST API & Auth Module for Student User (92/100)",
+      "category": "ACADEMY_ENROLMENTS",
+      "createdAt": "2026-11-12T09:46:44.413Z"
+    }
+  ],
+  "expenses": [],
+  "certificatetemplates": [
+    {
+      "_id": "6af2ae3b8a1ae5ef5b537806",
+      "name": "Standard Course Completion",
+      "certificateType": "Course Completion",
+      "titleText": "Certificate of Achievement",
+      "bodyTemplate": "This is to certify that {{name}} has successfully completed {{program}}.",
+      "issuerName": "CraffixWeb Technologies",
+      "isActive": true,
+      "__v": 0,
+      "createdAt": "2026-11-10T05:40:11.978Z",
+      "updatedAt": "2026-11-10T05:40:11.978Z"
+    },
+    {
+      "_id": "6af2ae3b8a1ae5ef5b537807",
+      "name": "Hackathon Participation",
+      "certificateType": "Hackathon Participation",
+      "titleText": "Certificate of Achievement",
+      "bodyTemplate": "This is to certify that {{name}} has successfully completed {{program}}.",
+      "issuerName": "CraffixWeb Technologies",
+      "isActive": true,
+      "__v": 0,
+      "createdAt": "2026-11-10T05:40:11.978Z",
+      "updatedAt": "2026-11-10T05:40:11.978Z"
+    }
+  ],
+  "employees": [
+    {
+      "_id": "6af2cf6721c04b26804597cf",
+      "userId": "6af2cf6721c04b268045979c",
+      "employeeId": "CFX-EMP-2026-0001",
+      "departmentId": "6af2cf6721c04b26804597c8",
+      "designationId": "6af2cf6721c04b26804597cb",
+      "reportingManagerId": null,
+      "employmentType": "FULL_TIME",
+      "exitDate": null,
+      "salaryStructure": {
+        "basic": 0,
+        "allowances": 0,
+        "effectiveFrom": "2026-11-10T08:01:43.356Z"
+      },
+      "employmentStatus": "ACTIVE",
+      "joiningDate": "2026-11-10T08:01:43.356Z",
+      "documents": [],
+      "createdAt": "2026-11-10T08:01:43.357Z",
+      "updatedAt": "2026-11-10T08:01:43.357Z",
+      "__v": 0
+    },
+    {
+      "_id": "6af2cf6721c04b2680459814",
+      "userId": "6af2cf6721c04b26804597e9",
+      "employeeId": "CFX-EMP-2026-0002",
+      "departmentId": "6af2cf6721c04b26804597c8",
+      "designationId": "6af2cf6721c04b26804597cb",
+      "reportingManagerId": null,
+      "employmentType": "FULL_TIME",
+      "exitDate": null,
+      "salaryStructure": {
+        "basic": 0,
+        "allowances": 0,
+        "effectiveFrom": "2026-11-10T08:01:43.705Z"
+      },
+      "employmentStatus": "ACTIVE",
+      "joiningDate": "2026-11-10T08:01:43.704Z",
+      "documents": [],
+      "createdAt": "2026-11-10T08:01:43.705Z",
+      "updatedAt": "2026-11-10T08:01:43.705Z",
+      "__v": 0
+    },
+    {
+      "_id": "6af2cf6721c04b268045984b",
+      "userId": "6af2cf6721c04b268045982a",
+      "employeeId": "CFX-EMP-2026-0003",
+      "departmentId": "6af2cf6721c04b26804597c8",
+      "designationId": "6af2cf6721c04b26804597cb",
+      "reportingManagerId": null,
+      "employmentType": "FULL_TIME",
+      "exitDate": null,
+      "salaryStructure": {
+        "basic": 0,
+        "allowances": 0,
+        "effectiveFrom": "2026-11-10T08:01:43.931Z"
+      },
+      "employmentStatus": "ACTIVE",
+      "joiningDate": "2026-11-10T08:01:43.931Z",
+      "documents": [],
+      "createdAt": "2026-11-10T08:01:43.931Z",
+      "updatedAt": "2026-11-10T08:01:43.931Z",
+      "__v": 0
+    },
+    {
+      "_id": "6af2cf6821c04b2680459871",
+      "userId": "6af2cf6821c04b268045985c",
+      "employeeId": "CFX-EMP-2026-0004",
+      "departmentId": "6af2cf6721c04b26804597c8",
+      "designationId": "6af2cf6721c04b26804597cb",
+      "reportingManagerId": null,
+      "employmentType": "FULL_TIME",
+      "exitDate": null,
+      "salaryStructure": {
+        "basic": 0,
+        "allowances": 0,
+        "effectiveFrom": "2026-11-10T08:01:44.162Z"
+      },
+      "employmentStatus": "ACTIVE",
+      "joiningDate": "2026-11-10T08:01:44.162Z",
+      "documents": [],
+      "createdAt": "2026-11-10T08:01:44.163Z",
+      "updatedAt": "2026-11-10T08:01:44.163Z",
+      "__v": 0
+    }
+  ],
+  "departments": [
+    {
+      "_id": "6af2cf6721c04b26804597c8",
+      "name": "General",
+      "code": "GEN",
+      "description": "Organization Department",
+      "headId": null,
+      "status": "ACTIVE",
+      "createdAt": "2026-11-10T08:01:43.343Z",
+      "updatedAt": "2026-11-10T08:01:43.343Z",
+      "__v": 0
+    }
+  ],
+  "refunds": [],
+  "batches": [
+    {
+      "_id": "6af2cf6821c04b2680459902",
+      "batchCode": "B001",
+      "name": "Full Stack Cohort 1",
+      "courseId": "6af2cf6821c04b2680459901",
+      "coordinatorId": "6af2cf6721c04b268045982a",
+      "mentors": [
+        "6af2cf6821c04b268045985c"
+      ],
+      "students": [
+        "6af2cf6821c04b2680459899"
+      ],
+      "capacity": 30,
+      "progress": 65,
+      "startDate": "2026-11-10T09:46:44.416Z",
+      "status": "ACTIVE",
+      "createdAt": "2026-11-10T09:46:44.416Z"
+    }
+  ],
+  "employeeattendances": [],
+  "vendors": [],
+  "organizationsettings": [],
+  "loginhistories": [],
+  "coursesessions": [],
+  "mentors": [],
+  "students": [
+    {
+      "_id": "6af2cf6821c04b2680459899",
+      "userId": "6af2cf6821c04b2680459884",
+      "studentId": "CFX-STU-2026-0001",
+      "college": "Anna University",
+      "department": "Computer Science",
+      "academicYear": "Final Year",
+      "dateOfBirth": null,
+      "address": {
+        "line1": "",
+        "city": "",
+        "state": "",
+        "postalCode": ""
+      },
+      "guardian": {
+        "name": "",
+        "relationship": "",
+        "phone": ""
+      },
+      "internshipDetails": {
+        "company": "",
+        "role": "",
+        "status": "NOT_STARTED"
+      },
+      "placementDetails": {
+        "company": "",
+        "role": "",
+        "packageLpa": 0,
+        "status": "SEEKING"
+      },
+      "studentStatus": "ACTIVE",
+      "documents": [],
+      "achievements": [],
+      "createdAt": "2026-11-10T08:01:44.379Z",
+      "updatedAt": "2026-11-10T08:01:44.379Z",
+      "__v": 0
+    }
+  ],
+  "projects": [],
+  "competitionresults": [],
+  "invoices": [
+    {
+      "_id": "6af2cf6821c04b2680459904",
+      "invoiceNumber": "INV-2026-0001",
+      "studentId": "6af2cf6821c04b2680459899",
+      "enrollmentId": "6af2cf6821c04b2680459903",
+      "totalAmount": 22500,
+      "paidAmount": 22500,
+      "dueAmount": 0,
+      "dueDate": "2026-11-26T09:46:44.416Z",
+      "status": "PAID",
+      "createdAt": "2026-11-10T09:46:44.416Z"
+    }
+  ],
+  "leaverequests": [],
+  "enrollments": [
+    {
+      "_id": "6af2cf6821c04b2680459903",
+      "enrollmentNumber": "ENR-2026-0001",
+      "studentId": "6af2cf6821c04b2680459899",
+      "courseId": "6af2cf6821c04b2680459901",
+      "batchId": "6af2cf6821c04b2680459902",
+      "priceUnlocked": true,
+      "feeDetails": {
+        "originalFee": 25000,
+        "discountPercent": 10,
+        "discount": 2500,
+        "scholarship": 0,
+        "finalFee": 22500,
+        "currency": "INR"
+      },
+      "paymentStatus": "PAID",
+      "progressPercent": 65,
+      "kanbanStage": "ENROLLED",
+      "enrolledAt": "2026-11-10T09:46:44.416Z",
+      "status": "ACTIVE",
+      "approvedBy": "6af2cf6721c04b26804597e9",
+      "approvedAt": "2026-11-10T09:46:44.416Z",
+      "createdAt": "2026-11-10T09:46:44.416Z"
+    }
+  ],
+  "coursematerials": [],
+  "events": [],
+  "announcements": [],
+  "certificates": [],
+  "judges": [],
+  "userroles": [
+    {
+      "_id": "6af2cf67eb9246b1cb83da1b",
+      "userId": "6af2cf6721c04b268045979c",
+      "roleId": "6af2ae3b8a1ae5ef5b5374a8",
+      "__v": 0,
+      "createdAt": "2026-11-10T08:01:43.334Z",
+      "isActive": true,
+      "isPrimary": true,
+      "updatedAt": "2026-11-10T08:01:43.334Z"
+    },
+    {
+      "_id": "6af2cf67eb9246b1cb83da1c",
+      "roleId": "6af2ae3b8a1ae5ef5b5374b5",
+      "userId": "6af2cf6721c04b26804597e9",
+      "__v": 0,
+      "createdAt": "2026-11-10T08:01:43.695Z",
+      "isActive": true,
+      "isPrimary": true,
+      "updatedAt": "2026-11-10T08:01:43.695Z"
+    },
+    {
+      "_id": "6af2cf67eb9246b1cb83da1d",
+      "userId": "6af2cf6721c04b268045982a",
+      "roleId": "6af2ae3b8a1ae5ef5b5374c1",
+      "__v": 0,
+      "createdAt": "2026-11-10T08:01:43.923Z",
+      "isActive": true,
+      "isPrimary": true,
+      "updatedAt": "2026-11-10T08:01:43.923Z"
+    },
+    {
+      "_id": "6af2cf68eb9246b1cb83da1e",
+      "userId": "6af2cf6821c04b268045985c",
+      "roleId": "6af2ae3b8a1ae5ef5b5374c8",
+      "__v": 0,
+      "createdAt": "2026-11-10T08:01:44.154Z",
+      "isActive": true,
+      "isPrimary": true,
+      "updatedAt": "2026-11-10T08:01:44.154Z"
+    },
+    {
+      "_id": "6af2cf68eb9246b1cb83da1f",
+      "roleId": "6af2ae3b8a1ae5ef5b5374cb",
+      "userId": "6af2cf6821c04b2680459884",
+      "__v": 0,
+      "createdAt": "2026-11-10T08:01:44.373Z",
+      "isActive": true,
+      "isPrimary": true,
+      "updatedAt": "2026-11-10T08:01:44.373Z"
+    },
+    {
+      "_id": "6af2cf68eb9246b1cb83da20",
+      "userId": "6af2cf6821c04b26804598aa",
+      "roleId": "6af2ae3b8a1ae5ef5b5374cd",
+      "__v": 0,
+      "createdAt": "2026-11-10T08:01:44.580Z",
+      "isActive": true,
+      "isPrimary": true,
+      "updatedAt": "2026-11-10T08:01:44.580Z"
+    }
+  ],
+  "payments": [
+    {
+      "_id": "6af2cf6821c04b2680459905",
+      "paymentNumber": "PAY-2026-0001",
+      "studentId": "6af2cf6821c04b2680459899",
+      "enrollmentId": "6af2cf6821c04b2680459903",
+      "invoiceId": "6af2cf6821c04b2680459904",
+      "amount": 22500,
+      "paymentMethod": "UPI",
+      "transactionReference": "TXN-2026-9001",
+      "notes": "Full cohort fee paid",
+      "paymentStatus": "VERIFIED",
+      "verifiedBy": "6af2cf6721c04b26804597e9",
+      "verifiedAt": "2026-11-11T09:46:44.416Z",
+      "paidAt": "2026-11-11T09:46:44.416Z",
+      "createdAt": "2026-11-11T09:46:44.416Z"
+    }
+  ],
+  "permissions": [
+    {
+      "_id": "6af2ae3b8a1ae5ef5b53748d",
+      "code": "users.manage",
+      "module": "users",
+      "action": "manage",
+      "description": "Create, update, activate/deactivate users",
+      "__v": 0,
+      "createdAt": "2026-11-10T05:40:11.191Z",
+      "updatedAt": "2026-11-10T16:49:18.546Z"
+    },
+    {
+      "_id": "6af2ae3b8a1ae5ef5b53748e",
+      "code": "employees.manage",
+      "module": "employees",
+      "action": "manage",
+      "description": "Manage employees, leaves and attendance",
+      "__v": 0,
+      "createdAt": "2026-11-10T05:40:11.192Z",
+      "updatedAt": "2026-11-10T16:49:18.595Z"
+    },
+    {
+      "_id": "6af2ae3b8a1ae5ef5b53748f",
+      "code": "students.create",
+      "module": "students",
+      "action": "create",
+      "description": "Create student profiles",
+      "__v": 0,
+      "createdAt": "2026-11-10T05:40:11.192Z",
+      "updatedAt": "2026-11-10T16:49:18.601Z"
+    },
+    {
+      "_id": "6af2ae3b8a1ae5ef5b537490",
+      "code": "students.read",
+      "module": "students",
+      "action": "read",
+      "description": "Read student records",
+      "__v": 0,
+      "createdAt": "2026-11-10T05:40:11.193Z",
+      "updatedAt": "2026-11-10T16:49:18.603Z"
+    },
+    {
+      "_id": "6af2ae3b8a1ae5ef5b537491",
+      "code": "students.update",
+      "module": "students",
+      "action": "update",
+      "description": "Update student profiles",
+      "__v": 0,
+      "createdAt": "2026-11-10T05:40:11.193Z",
+      "updatedAt": "2026-11-10T16:49:18.604Z"
+    },
+    {
+      "_id": "6af2ae3b8a1ae5ef5b537492",
+      "code": "courses.manage",
+      "module": "courses",
+      "action": "manage",
+      "description": "Manage courses, syllabus and batches",
+      "__v": 0,
+      "createdAt": "2026-11-10T05:40:11.193Z",
+      "updatedAt": "2026-11-10T16:49:18.607Z"
+    },
+    {
+      "_id": "6af2ae3b8a1ae5ef5b537493",
+      "code": "enrollments.approve",
+      "module": "enrollments",
+      "action": "approve",
+      "description": "Approve student enrolments",
+      "__v": 0,
+      "createdAt": "2026-11-10T05:40:11.193Z",
+      "updatedAt": "2026-11-10T16:49:18.611Z"
+    },
+    {
+      "_id": "6af2ae3b8a1ae5ef5b537494",
+      "code": "payments.verify",
+      "module": "finance",
+      "action": "verify",
+      "description": "Verify student payments",
+      "__v": 0,
+      "createdAt": "2026-11-10T05:40:11.193Z",
+      "updatedAt": "2026-11-10T16:49:18.623Z"
+    },
+    {
+      "_id": "6af2ae3b8a1ae5ef5b537495",
+      "code": "events.publish",
+      "module": "events",
+      "action": "publish",
+      "description": "Publish events and results",
+      "__v": 0,
+      "createdAt": "2026-11-10T05:40:11.193Z",
+      "updatedAt": "2026-11-10T16:49:18.627Z"
+    },
+    {
+      "_id": "6af2ae3b8a1ae5ef5b537496",
+      "code": "competitions.evaluate",
+      "module": "competitions",
+      "action": "evaluate",
+      "description": "Evaluate competition submissions",
+      "__v": 0,
+      "createdAt": "2026-11-10T05:40:11.193Z",
+      "updatedAt": "2026-11-10T16:49:18.631Z"
+    },
+    {
+      "_id": "6af2ae3b8a1ae5ef5b537497",
+      "code": "certificates.issue",
+      "module": "certificates",
+      "action": "issue",
+      "description": "Issue and revoke certificates",
+      "__v": 0,
+      "createdAt": "2026-11-10T05:40:11.193Z",
+      "updatedAt": "2026-11-10T16:49:18.633Z"
+    },
+    {
+      "_id": "6af2ae3b8a1ae5ef5b537498",
+      "code": "reports.export",
+      "module": "reports",
+      "action": "export",
+      "description": "View and export reports",
+      "__v": 0,
+      "createdAt": "2026-11-10T05:40:11.193Z",
+      "updatedAt": "2026-11-10T16:49:18.640Z"
+    },
+    {
+      "_id": "6af2bb22eb9246b1cb83d9fc",
+      "code": "settings.manage",
+      "__v": 0,
+      "action": "manage",
+      "createdAt": "2026-11-10T06:35:14.867Z",
+      "description": "Manage system and organization settings",
+      "module": "settings",
+      "updatedAt": "2026-11-10T16:49:18.450Z"
+    },
+    {
+      "_id": "6af2bb22eb9246b1cb83d9fd",
+      "code": "users.read",
+      "__v": 0,
+      "action": "read",
+      "createdAt": "2026-11-10T06:35:14.988Z",
+      "description": "Read user accounts",
+      "module": "users",
+      "updatedAt": "2026-11-10T16:49:18.579Z"
+    },
+    {
+      "_id": "6af2bb22eb9246b1cb83d9fe",
+      "code": "roles.manage",
+      "__v": 0,
+      "action": "manage",
+      "createdAt": "2026-11-10T06:35:14.998Z",
+      "description": "Manage roles and permissions",
+      "module": "roles",
+      "updatedAt": "2026-11-10T16:49:18.590Z"
+    },
+    {
+      "_id": "6af2bb23eb9246b1cb83d9ff",
+      "code": "employees.read",
+      "__v": 0,
+      "action": "read",
+      "createdAt": "2026-11-10T06:35:15.001Z",
+      "description": "View employees",
+      "module": "employees",
+      "updatedAt": "2026-11-10T16:49:18.597Z"
+    },
+    {
+      "_id": "6af2bb23eb9246b1cb83da00",
+      "code": "departments.manage",
+      "__v": 0,
+      "action": "manage",
+      "createdAt": "2026-11-10T06:35:15.003Z",
+      "description": "Manage departments and designations",
+      "module": "departments",
+      "updatedAt": "2026-11-10T16:49:18.598Z"
+    },
+    {
+      "_id": "6af2bb23eb9246b1cb83da01",
+      "code": "departments.read",
+      "__v": 0,
+      "action": "read",
+      "createdAt": "2026-11-10T06:35:15.006Z",
+      "description": "Read departments",
+      "module": "departments",
+      "updatedAt": "2026-11-10T16:49:18.599Z"
+    },
+    {
+      "_id": "6af2bb23eb9246b1cb83da02",
+      "code": "students.manage",
+      "__v": 0,
+      "action": "manage",
+      "createdAt": "2026-11-10T06:35:15.016Z",
+      "description": "Full student management",
+      "module": "students",
+      "updatedAt": "2026-11-10T16:49:18.606Z"
+    },
+    {
+      "_id": "6af2bb23eb9246b1cb83da03",
+      "code": "courses.read",
+      "__v": 0,
+      "action": "read",
+      "createdAt": "2026-11-10T06:35:15.020Z",
+      "description": "Read courses and batches",
+      "module": "courses",
+      "updatedAt": "2026-11-10T16:49:18.609Z"
+    },
+    {
+      "_id": "6af2bb23eb9246b1cb83da04",
+      "code": "enrollments.manage",
+      "__v": 0,
+      "action": "manage",
+      "createdAt": "2026-11-10T06:35:15.021Z",
+      "description": "Manage enrolments",
+      "module": "enrollments",
+      "updatedAt": "2026-11-10T16:49:18.610Z"
+    },
+    {
+      "_id": "6af2bb23eb9246b1cb83da05",
+      "code": "enrollments.read",
+      "__v": 0,
+      "action": "read",
+      "createdAt": "2026-11-10T06:35:15.024Z",
+      "description": "Read enrolments",
+      "module": "enrollments",
+      "updatedAt": "2026-11-10T16:49:18.612Z"
+    },
+    {
+      "_id": "6af2bb23eb9246b1cb83da06",
+      "code": "attendance.manage",
+      "__v": 0,
+      "action": "manage",
+      "createdAt": "2026-11-10T06:35:15.026Z",
+      "description": "Mark and manage attendance",
+      "module": "attendance",
+      "updatedAt": "2026-11-10T16:49:18.614Z"
+    },
+    {
+      "_id": "6af2bb23eb9246b1cb83da07",
+      "code": "attendance.read",
+      "__v": 0,
+      "action": "read",
+      "createdAt": "2026-11-10T06:35:15.034Z",
+      "description": "Read attendance records",
+      "module": "attendance",
+      "updatedAt": "2026-11-10T16:49:18.615Z"
+    },
+    {
+      "_id": "6af2bb23eb9246b1cb83da08",
+      "code": "assignments.manage",
+      "__v": 0,
+      "action": "manage",
+      "createdAt": "2026-11-10T06:35:15.035Z",
+      "description": "Create and evaluate assignments",
+      "module": "assignments",
+      "updatedAt": "2026-11-10T16:49:18.617Z"
+    },
+    {
+      "_id": "6af2bb23eb9246b1cb83da09",
+      "code": "assignments.read",
+      "__v": 0,
+      "action": "read",
+      "createdAt": "2026-11-10T06:35:15.037Z",
+      "description": "View assignments",
+      "module": "assignments",
+      "updatedAt": "2026-11-10T16:49:18.618Z"
+    },
+    {
+      "_id": "6af2bb23eb9246b1cb83da0a",
+      "code": "submissions.create",
+      "__v": 0,
+      "action": "create",
+      "createdAt": "2026-11-10T06:35:15.039Z",
+      "description": "Submit assignments/projects",
+      "module": "submissions",
+      "updatedAt": "2026-11-10T16:49:18.619Z"
+    },
+    {
+      "_id": "6af2bb23eb9246b1cb83da0b",
+      "code": "submissions.read",
+      "__v": 0,
+      "action": "read",
+      "createdAt": "2026-11-10T06:35:15.041Z",
+      "description": "Read submissions",
+      "module": "submissions",
+      "updatedAt": "2026-11-10T16:49:18.620Z"
+    },
+    {
+      "_id": "6af2bb23eb9246b1cb83da0c",
+      "code": "finance.manage",
+      "__v": 0,
+      "action": "manage",
+      "createdAt": "2026-11-10T06:35:15.043Z",
+      "description": "Manage invoices, payments and expenses",
+      "module": "finance",
+      "updatedAt": "2026-11-10T16:49:18.621Z"
+    },
+    {
+      "_id": "6af2bb23eb9246b1cb83da0d",
+      "code": "finance.read",
+      "__v": 0,
+      "action": "read",
+      "createdAt": "2026-11-10T06:35:15.046Z",
+      "description": "Read finance and fee records",
+      "module": "finance",
+      "updatedAt": "2026-11-10T16:49:18.624Z"
+    },
+    {
+      "_id": "6af2bb23eb9246b1cb83da0e",
+      "code": "events.manage",
+      "__v": 0,
+      "action": "manage",
+      "createdAt": "2026-11-10T06:35:15.048Z",
+      "description": "Create and manage events",
+      "module": "events",
+      "updatedAt": "2026-11-10T16:49:18.625Z"
+    },
+    {
+      "_id": "6af2bb23eb9246b1cb83da0f",
+      "code": "events.read",
+      "__v": 0,
+      "action": "read",
+      "createdAt": "2026-11-10T06:35:15.056Z",
+      "description": "View events",
+      "module": "events",
+      "updatedAt": "2026-11-10T16:49:18.628Z"
+    },
+    {
+      "_id": "6af2bb23eb9246b1cb83da10",
+      "code": "events.register",
+      "__v": 0,
+      "action": "register",
+      "createdAt": "2026-11-10T06:35:15.057Z",
+      "description": "Register for events",
+      "module": "events",
+      "updatedAt": "2026-11-10T16:49:18.630Z"
+    },
+    {
+      "_id": "6af2bb23eb9246b1cb83da11",
+      "code": "competitions.manage",
+      "__v": 0,
+      "action": "manage",
+      "createdAt": "2026-11-10T06:35:15.061Z",
+      "description": "Manage competition judging & winners",
+      "module": "competitions",
+      "updatedAt": "2026-11-10T16:49:18.632Z"
+    },
+    {
+      "_id": "6af2bb23eb9246b1cb83da12",
+      "code": "certificates.read",
+      "__v": 0,
+      "action": "read",
+      "createdAt": "2026-11-10T06:35:15.064Z",
+      "description": "View certificates",
+      "module": "certificates",
+      "updatedAt": "2026-11-10T16:49:18.635Z"
+    },
+    {
+      "_id": "6af2bb23eb9246b1cb83da13",
+      "code": "projects.manage",
+      "__v": 0,
+      "action": "manage",
+      "createdAt": "2026-11-10T06:35:15.065Z",
+      "description": "Manage projects and tasks",
+      "module": "projects",
+      "updatedAt": "2026-11-10T16:49:18.637Z"
+    },
+    {
+      "_id": "6af2bb23eb9246b1cb83da14",
+      "code": "projects.read",
+      "__v": 0,
+      "action": "read",
+      "createdAt": "2026-11-10T06:35:15.066Z",
+      "description": "View assigned projects and tasks",
+      "module": "projects",
+      "updatedAt": "2026-11-10T16:49:18.638Z"
+    },
+    {
+      "_id": "6af2bb23eb9246b1cb83da15",
+      "code": "reports.read",
+      "__v": 0,
+      "action": "read",
+      "createdAt": "2026-11-10T06:35:15.070Z",
+      "description": "Read analytics reports",
+      "module": "reports",
+      "updatedAt": "2026-11-10T16:49:18.641Z"
+    },
+    {
+      "_id": "6af2bb23eb9246b1cb83da16",
+      "code": "auditLogs.read",
+      "__v": 0,
+      "action": "read",
+      "createdAt": "2026-11-10T06:35:15.071Z",
+      "description": "View system audit logs",
+      "module": "auditLogs",
+      "updatedAt": "2026-11-10T16:49:18.643Z"
+    }
+  ],
+  "assignments": [
+    {
+      "_id": "6af2cf6821c04b2680459906",
+      "assignmentCode": "ASN-2026-0001",
+      "title": "REST API & Auth Module",
+      "description": "Implement JWT authentication and role-protected CRUD endpoints.",
+      "batchId": "6af2cf6821c04b2680459902",
+      "courseId": "6af2cf6821c04b2680459901",
+      "createdBy": "6af2cf6821c04b268045985c",
+      "dueDate": "2026-11-19",
+      "maxMarks": 100,
+      "status": "ACTIVE",
+      "createdAt": "2026-11-10T09:46:44.416Z"
+    }
+  ],
+  "roles": [
+    {
+      "_id": "6af2ae3b8a1ae5ef5b5374a8",
+      "name": "Super Admin",
+      "code": "SUPER_ADMIN",
+      "permissions": [
+        {
+          "permissionId": "6af2bb22eb9246b1cb83d9fc",
+          "code": "settings.manage",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d87eb"
+        },
+        {
+          "permissionId": "6af2ae3b8a1ae5ef5b53748d",
+          "code": "users.manage",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d87ec"
+        },
+        {
+          "permissionId": "6af2bb22eb9246b1cb83d9fd",
+          "code": "users.read",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d87ed"
+        },
+        {
+          "permissionId": "6af2bb22eb9246b1cb83d9fe",
+          "code": "roles.manage",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d87ee"
+        },
+        {
+          "permissionId": "6af2ae3b8a1ae5ef5b53748e",
+          "code": "employees.manage",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d87ef"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83d9ff",
+          "code": "employees.read",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d87f0"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da00",
+          "code": "departments.manage",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d87f1"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da01",
+          "code": "departments.read",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d87f2"
+        },
+        {
+          "permissionId": "6af2ae3b8a1ae5ef5b53748f",
+          "code": "students.create",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d87f3"
+        },
+        {
+          "permissionId": "6af2ae3b8a1ae5ef5b537490",
+          "code": "students.read",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d87f4"
+        },
+        {
+          "permissionId": "6af2ae3b8a1ae5ef5b537491",
+          "code": "students.update",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d87f5"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da02",
+          "code": "students.manage",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d87f6"
+        },
+        {
+          "permissionId": "6af2ae3b8a1ae5ef5b537492",
+          "code": "courses.manage",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d87f7"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da03",
+          "code": "courses.read",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d87f8"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da04",
+          "code": "enrollments.manage",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d87f9"
+        },
+        {
+          "permissionId": "6af2ae3b8a1ae5ef5b537493",
+          "code": "enrollments.approve",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d87fa"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da05",
+          "code": "enrollments.read",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d87fb"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da06",
+          "code": "attendance.manage",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d87fc"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da07",
+          "code": "attendance.read",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d87fd"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da08",
+          "code": "assignments.manage",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d87fe"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da09",
+          "code": "assignments.read",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d87ff"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da0a",
+          "code": "submissions.create",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d8800"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da0b",
+          "code": "submissions.read",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d8801"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da0c",
+          "code": "finance.manage",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d8802"
+        },
+        {
+          "permissionId": "6af2ae3b8a1ae5ef5b537494",
+          "code": "payments.verify",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d8803"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da0d",
+          "code": "finance.read",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d8804"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da0e",
+          "code": "events.manage",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d8805"
+        },
+        {
+          "permissionId": "6af2ae3b8a1ae5ef5b537495",
+          "code": "events.publish",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d8806"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da0f",
+          "code": "events.read",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d8807"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da10",
+          "code": "events.register",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d8808"
+        },
+        {
+          "permissionId": "6af2ae3b8a1ae5ef5b537496",
+          "code": "competitions.evaluate",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d8809"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da11",
+          "code": "competitions.manage",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d880a"
+        },
+        {
+          "permissionId": "6af2ae3b8a1ae5ef5b537497",
+          "code": "certificates.issue",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d880b"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da12",
+          "code": "certificates.read",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d880c"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da13",
+          "code": "projects.manage",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d880d"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da14",
+          "code": "projects.read",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d880e"
+        },
+        {
+          "permissionId": "6af2ae3b8a1ae5ef5b537498",
+          "code": "reports.export",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d880f"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da15",
+          "code": "reports.read",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d8810"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da16",
+          "code": "auditLogs.read",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d8811"
+        }
+      ],
+      "isSystemRole": true,
+      "isActive": true,
+      "__v": 0,
+      "createdAt": "2026-11-10T05:40:11.446Z",
+      "updatedAt": "2026-11-10T16:49:18.651Z",
+      "description": "Overall organizational control across all CraffixHub modules"
+    },
+    {
+      "_id": "6af2ae3b8a1ae5ef5b5374b5",
+      "name": "Admin",
+      "code": "ADMIN",
+      "permissions": [
+        {
+          "permissionId": "6af2bb22eb9246b1cb83d9fc",
+          "code": "settings.manage",
+          "scope": "LIMITED",
+          "_id": "6af34b0ed4850d96060d8813"
+        },
+        {
+          "permissionId": "6af2ae3b8a1ae5ef5b53748d",
+          "code": "users.manage",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d8814"
+        },
+        {
+          "permissionId": "6af2bb22eb9246b1cb83d9fd",
+          "code": "users.read",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d8815"
+        },
+        {
+          "permissionId": "6af2ae3b8a1ae5ef5b53748e",
+          "code": "employees.manage",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d8816"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83d9ff",
+          "code": "employees.read",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d8817"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da00",
+          "code": "departments.manage",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d8818"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da01",
+          "code": "departments.read",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d8819"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da02",
+          "code": "students.manage",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d881a"
+        },
+        {
+          "permissionId": "6af2ae3b8a1ae5ef5b53748f",
+          "code": "students.create",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d881b"
+        },
+        {
+          "permissionId": "6af2ae3b8a1ae5ef5b537490",
+          "code": "students.read",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d881c"
+        },
+        {
+          "permissionId": "6af2ae3b8a1ae5ef5b537491",
+          "code": "students.update",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d881d"
+        },
+        {
+          "permissionId": "6af2ae3b8a1ae5ef5b537492",
+          "code": "courses.manage",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d881e"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da03",
+          "code": "courses.read",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d881f"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da04",
+          "code": "enrollments.manage",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d8820"
+        },
+        {
+          "permissionId": "6af2ae3b8a1ae5ef5b537493",
+          "code": "enrollments.approve",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d8821"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da05",
+          "code": "enrollments.read",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d8822"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da06",
+          "code": "attendance.manage",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d8823"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da07",
+          "code": "attendance.read",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d8824"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da09",
+          "code": "assignments.read",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d8825"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da0b",
+          "code": "submissions.read",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d8826"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da0c",
+          "code": "finance.manage",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d8827"
+        },
+        {
+          "permissionId": "6af2ae3b8a1ae5ef5b537494",
+          "code": "payments.verify",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d8828"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da0d",
+          "code": "finance.read",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d8829"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da0e",
+          "code": "events.manage",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d882a"
+        },
+        {
+          "permissionId": "6af2ae3b8a1ae5ef5b537495",
+          "code": "events.publish",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d882b"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da0f",
+          "code": "events.read",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d882c"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da11",
+          "code": "competitions.manage",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d882d"
+        },
+        {
+          "permissionId": "6af2ae3b8a1ae5ef5b537496",
+          "code": "competitions.evaluate",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d882e"
+        },
+        {
+          "permissionId": "6af2ae3b8a1ae5ef5b537497",
+          "code": "certificates.issue",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d882f"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da12",
+          "code": "certificates.read",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d8830"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da13",
+          "code": "projects.manage",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d8831"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da14",
+          "code": "projects.read",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d8832"
+        },
+        {
+          "permissionId": "6af2ae3b8a1ae5ef5b537498",
+          "code": "reports.export",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d8833"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da15",
+          "code": "reports.read",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d8834"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da16",
+          "code": "auditLogs.read",
+          "scope": "LIMITED",
+          "_id": "6af34b0ed4850d96060d8835"
+        }
+      ],
+      "isSystemRole": true,
+      "isActive": true,
+      "__v": 0,
+      "createdAt": "2026-11-10T05:40:11.447Z",
+      "updatedAt": "2026-11-10T16:49:18.664Z",
+      "description": "Administrative operations across company, academy, events and finance"
+    },
+    {
+      "_id": "6af2ae3b8a1ae5ef5b5374c1",
+      "name": "Course Coordinator",
+      "code": "COORDINATOR",
+      "permissions": [
+        {
+          "permissionId": "6af2bb22eb9246b1cb83d9fd",
+          "code": "users.read",
+          "scope": "ASSIGNED",
+          "_id": "6af34b0ed4850d96060d8837"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da01",
+          "code": "departments.read",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d8838"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da02",
+          "code": "students.manage",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d8839"
+        },
+        {
+          "permissionId": "6af2ae3b8a1ae5ef5b53748f",
+          "code": "students.create",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d883a"
+        },
+        {
+          "permissionId": "6af2ae3b8a1ae5ef5b537490",
+          "code": "students.read",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d883b"
+        },
+        {
+          "permissionId": "6af2ae3b8a1ae5ef5b537491",
+          "code": "students.update",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d883c"
+        },
+        {
+          "permissionId": "6af2ae3b8a1ae5ef5b537492",
+          "code": "courses.manage",
+          "scope": "ASSIGNED",
+          "_id": "6af34b0ed4850d96060d883d"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da03",
+          "code": "courses.read",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d883e"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da04",
+          "code": "enrollments.manage",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d883f"
+        },
+        {
+          "permissionId": "6af2ae3b8a1ae5ef5b537493",
+          "code": "enrollments.approve",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d8840"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da05",
+          "code": "enrollments.read",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d8841"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da06",
+          "code": "attendance.manage",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d8842"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da07",
+          "code": "attendance.read",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d8843"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da09",
+          "code": "assignments.read",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d8844"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da0b",
+          "code": "submissions.read",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d8845"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da0d",
+          "code": "finance.read",
+          "scope": "LIMITED",
+          "_id": "6af34b0ed4850d96060d8846"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da0e",
+          "code": "events.manage",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d8847"
+        },
+        {
+          "permissionId": "6af2ae3b8a1ae5ef5b537495",
+          "code": "events.publish",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d8848"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da0f",
+          "code": "events.read",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d8849"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da11",
+          "code": "competitions.manage",
+          "scope": "ASSIGNED",
+          "_id": "6af34b0ed4850d96060d884a"
+        },
+        {
+          "permissionId": "6af2ae3b8a1ae5ef5b537496",
+          "code": "competitions.evaluate",
+          "scope": "ASSIGNED",
+          "_id": "6af34b0ed4850d96060d884b"
+        },
+        {
+          "permissionId": "6af2ae3b8a1ae5ef5b537497",
+          "code": "certificates.issue",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d884c"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da12",
+          "code": "certificates.read",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d884d"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da14",
+          "code": "projects.read",
+          "scope": "LIMITED",
+          "_id": "6af34b0ed4850d96060d884e"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da15",
+          "code": "reports.read",
+          "scope": "ASSIGNED",
+          "_id": "6af34b0ed4850d96060d884f"
+        }
+      ],
+      "isSystemRole": true,
+      "isActive": true,
+      "__v": 0,
+      "createdAt": "2026-11-10T05:40:11.448Z",
+      "updatedAt": "2026-11-10T16:49:18.668Z",
+      "description": "Academy and student operations for assigned courses and batches"
+    },
+    {
+      "_id": "6af2ae3b8a1ae5ef5b5374c8",
+      "name": "Mentor",
+      "code": "MENTOR",
+      "permissions": [
+        {
+          "permissionId": "6af2ae3b8a1ae5ef5b537490",
+          "code": "students.read",
+          "scope": "ASSIGNED",
+          "_id": "6af34b0ed4850d96060d8851"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da03",
+          "code": "courses.read",
+          "scope": "ASSIGNED",
+          "_id": "6af34b0ed4850d96060d8852"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da05",
+          "code": "enrollments.read",
+          "scope": "ASSIGNED",
+          "_id": "6af34b0ed4850d96060d8853"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da06",
+          "code": "attendance.manage",
+          "scope": "ASSIGNED",
+          "_id": "6af34b0ed4850d96060d8854"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da07",
+          "code": "attendance.read",
+          "scope": "ASSIGNED",
+          "_id": "6af34b0ed4850d96060d8855"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da08",
+          "code": "assignments.manage",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d8856"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da09",
+          "code": "assignments.read",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d8857"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da0b",
+          "code": "submissions.read",
+          "scope": "ASSIGNED",
+          "_id": "6af34b0ed4850d96060d8858"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da0f",
+          "code": "events.read",
+          "scope": "ASSIGNED",
+          "_id": "6af34b0ed4850d96060d8859"
+        },
+        {
+          "permissionId": "6af2ae3b8a1ae5ef5b537496",
+          "code": "competitions.evaluate",
+          "scope": "ASSIGNED",
+          "_id": "6af34b0ed4850d96060d885a"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da12",
+          "code": "certificates.read",
+          "scope": "LIMITED",
+          "_id": "6af34b0ed4850d96060d885b"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da14",
+          "code": "projects.read",
+          "scope": "ASSIGNED",
+          "_id": "6af34b0ed4850d96060d885c"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da15",
+          "code": "reports.read",
+          "scope": "ASSIGNED",
+          "_id": "6af34b0ed4850d96060d885d"
+        }
+      ],
+      "isSystemRole": true,
+      "isActive": true,
+      "__v": 0,
+      "createdAt": "2026-11-10T05:40:11.448Z",
+      "updatedAt": "2026-11-10T16:49:18.672Z",
+      "description": "Teaching, batch attendance, assignment creation and student evaluation"
+    },
+    {
+      "_id": "6af2ae3b8a1ae5ef5b5374cb",
+      "name": "Student",
+      "code": "STUDENT",
+      "permissions": [
+        {
+          "permissionId": "6af2bb22eb9246b1cb83d9fd",
+          "code": "users.read",
+          "scope": "OWN",
+          "_id": "6af34b0ed4850d96060d885f"
+        },
+        {
+          "permissionId": "6af2ae3b8a1ae5ef5b537490",
+          "code": "students.read",
+          "scope": "OWN",
+          "_id": "6af34b0ed4850d96060d8860"
+        },
+        {
+          "permissionId": "6af2ae3b8a1ae5ef5b537491",
+          "code": "students.update",
+          "scope": "OWN",
+          "_id": "6af34b0ed4850d96060d8861"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da03",
+          "code": "courses.read",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d8862"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da05",
+          "code": "enrollments.read",
+          "scope": "OWN",
+          "_id": "6af34b0ed4850d96060d8863"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da07",
+          "code": "attendance.read",
+          "scope": "OWN",
+          "_id": "6af34b0ed4850d96060d8864"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da09",
+          "code": "assignments.read",
+          "scope": "OWN",
+          "_id": "6af34b0ed4850d96060d8865"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da0a",
+          "code": "submissions.create",
+          "scope": "OWN",
+          "_id": "6af34b0ed4850d96060d8866"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da0b",
+          "code": "submissions.read",
+          "scope": "OWN",
+          "_id": "6af34b0ed4850d96060d8867"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da0d",
+          "code": "finance.read",
+          "scope": "OWN",
+          "_id": "6af34b0ed4850d96060d8868"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da0f",
+          "code": "events.read",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d8869"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da10",
+          "code": "events.register",
+          "scope": "ALL",
+          "_id": "6af34b0ed4850d96060d886a"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da12",
+          "code": "certificates.read",
+          "scope": "OWN",
+          "_id": "6af34b0ed4850d96060d886b"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da14",
+          "code": "projects.read",
+          "scope": "OWN",
+          "_id": "6af34b0ed4850d96060d886c"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da15",
+          "code": "reports.read",
+          "scope": "OWN",
+          "_id": "6af34b0ed4850d96060d886d"
+        }
+      ],
+      "isSystemRole": true,
+      "isActive": true,
+      "__v": 0,
+      "createdAt": "2026-11-10T05:40:11.448Z",
+      "updatedAt": "2026-11-10T16:49:18.674Z",
+      "description": "Learning, course enrolment, assignment submissions and events"
+    },
+    {
+      "_id": "6af2ae3b8a1ae5ef5b5374cd",
+      "name": "Guest",
+      "code": "GUEST",
+      "permissions": [
+        {
+          "permissionId": "6af2ae3b8a1ae5ef5b537490",
+          "code": "students.read",
+          "scope": "OWN",
+          "_id": "6af34b0ed4850d96060d886f"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da0f",
+          "code": "events.read",
+          "scope": "ASSIGNED",
+          "_id": "6af34b0ed4850d96060d8870"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da10",
+          "code": "events.register",
+          "scope": "ASSIGNED",
+          "_id": "6af34b0ed4850d96060d8871"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da07",
+          "code": "attendance.read",
+          "scope": "EVENT_ONLY",
+          "_id": "6af34b0ed4850d96060d8872"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da09",
+          "code": "assignments.read",
+          "scope": "EVENT_ONLY",
+          "_id": "6af34b0ed4850d96060d8873"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da0a",
+          "code": "submissions.create",
+          "scope": "OWN",
+          "_id": "6af34b0ed4850d96060d8874"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da0b",
+          "code": "submissions.read",
+          "scope": "OWN",
+          "_id": "6af34b0ed4850d96060d8875"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da12",
+          "code": "certificates.read",
+          "scope": "OWN",
+          "_id": "6af34b0ed4850d96060d8876"
+        },
+        {
+          "permissionId": "6af2bb23eb9246b1cb83da15",
+          "code": "reports.read",
+          "scope": "EVENT_ONLY",
+          "_id": "6af34b0ed4850d96060d8877"
+        }
+      ],
+      "isSystemRole": true,
+      "isActive": true,
+      "__v": 0,
+      "createdAt": "2026-11-10T05:40:11.448Z",
+      "updatedAt": "2026-11-10T16:49:18.678Z",
+      "description": "Temporary event-based participant access"
+    }
+  ],
+  "eventregistrations": [],
+  "ideapitches": [],
+  "duerequests": [],
+  "enrollmentsessions": []
+}
